@@ -5,7 +5,7 @@ import Title from 'react-title-component';
 import Mousetrap from 'mousetrap';
 import GithubCorner from 'react-github-corner';
 
-import Footer from './../Footer/Footer';
+import Footer from '../Footer/Footer.js';
 
 export default class Pomodoro extends React.Component {
 
