@@ -277,7 +277,7 @@ export default class Pomodoro extends React.Component {
             </div> {/* container */}
           </div> {/* controls */}
 
-          <Footer />
+          <Footer link = "https://github.com/5ubh4m" copyright = "@5ubh4m" />
 
         </div> {/* bottomBar */}
 
